@@ -1,0 +1,4 @@
+numpy
+control
+matplotlib
+jupyter
